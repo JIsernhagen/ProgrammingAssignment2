@@ -32,4 +32,4 @@ All of the script steps numbered 1-6 focus on important the data and then assemb
 8) addresses requirement 2 by extracting only the means of the mean and standard deviation (first six) variables for further processing.
 9) addresses requirement 5 by melting the data frame into a tall and skinny "tidy" table.  The descriptions of "tidy" in the video lectures were self-contradictory, so I went with what I thought was the safest version, but the script can produce a rectangular table (in 10) if desired.
 
-In order to function correctly, the data tables need to be juxtaposed in the same folders as when they're unpacked in the working directory.
+In order to function correctly, the data tables need to be juxtaposed in the same folders as when they're unpacked in the working directory.  
